@@ -1,0 +1,6 @@
+{
+  "DIRECTORY_AVATARS": "./avatars",
+  "CONFIG_EXTENSION": ".json",
+  "GAME_FILENAME": "game",
+  "DIRECTORY_BACKUP": "./backups"
+}

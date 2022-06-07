@@ -1,0 +1,24 @@
+{
+  "1": {
+    "UID": "26EB6E9F9DF38C668783B635DC9DD548C2C39FE5A92FCB42C66BBE4360DDC591",
+    "playerId": "1",
+    "pfpId": "1",
+    "BanState": 0,
+    "NextBanTime": 3600000,
+    "BanDurationRemaining": 0,
+    "BanReason": 0,
+    "LastIP": "75.186.22.153",
+    "LastConnectionMobile": false,
+    "LastChecked": 1651949766237,
+    "LastCheckFailed": false,
+    "CheckAPIFailed": false,
+    "Proscribed": false,
+    "CheckFailCode": 0,
+    "ProfileMatch": true,
+    "BasicIntegrity": true,
+    "Approved": false,
+    "Expired": 0,
+    "DeviceHash": "7A255257",
+    "AppListHash": "9D3DD64F"
+  }
+}
